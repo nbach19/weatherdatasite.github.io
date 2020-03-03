@@ -1,0 +1,20 @@
+#description-text {
+    font-size: medium;
+}
+
+#navbar-styling {
+    color: rgb(18, 189, 241);
+}
+
+#header {
+    color: green;
+    font-size: x-large;
+}
+
+main {
+    margin: 30px;
+}
+
+.plot-text {
+    margin: 45px;
+}
